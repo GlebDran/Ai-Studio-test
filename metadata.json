@@ -1,0 +1,7 @@
+{
+  "name": "SaunaKüla - Wellness Retreats",
+  "description": "A high-fidelity mobile application for booking premium vacation houses and traditional saunas, featuring natural aesthetics and a seamless booking experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
